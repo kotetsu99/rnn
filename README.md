@@ -15,4 +15,4 @@
 
 ・使用方法： https://nine-num-98.blogspot.com/2020/08/ai-rnn-01.html
 
-・解説： 後日公開予定
+・解説： https://nine-num-98.blogspot.com/2020/08/ai-rnn-02.html
